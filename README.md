@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Maheshi</h1>
-<h3 align="center">A Software Engineer in Sri Lanka.</h3>
+<h6 align="center">My passion is making great things.</h3>
+<p align="center">I'm a Computer Science undergraduate 🎓</p>  
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=maheshidsilva" alt="maheshidsilva" /></a> </p>
 
